@@ -9,7 +9,7 @@ A desktop application developed using C# WinForms and .NET Framework for pharmac
 * Automatic total calculation
 * Receipt generation using RDLC Reports
 * Thermal receipt printer support
-* Dynamic CODE128 barcode generation
+* Dynamic CODABAR barcode generation
 * Print preview using ReportViewer
 * PDF export functionality
 * Modern desktop UI
