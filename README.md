@@ -36,19 +36,15 @@ A desktop application developed using C# WinForms and .NET Framework for pharmac
 
 ### Main Screen
 
-(Add Screenshot Here)
+![Main Screen](screenshots/Main_Screen.png)
 
 ### Invoice Entry
 
-(Add Screenshot Here)
-
-### Receipt Preview
-
-(Add Screenshot Here)
+![Invoice Entry](screenshots/invoice-form.png)
 
 ### Printed Receipt
 
-(Add Screenshot Here)
+![Printed Receipt](screenshots/receipt.png)
 
 ## Project Highlights
 
